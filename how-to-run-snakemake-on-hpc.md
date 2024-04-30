@@ -1,10 +1,10 @@
 ---
-title: "Deploy snakemake pipeline on HPC"
-description: The right way to deploy your snakemake pipeline
-date: 04-30-2024
-categories: ["Make bioinfo uncool again"]
+Title: "Deploy snakemake pipeline on HPC"
+Description: The right way to deploy your snakemake pipeline
+Date: 04-30-2024
+Categories: ["Make bioinfo uncool again"]
 Adapted from: https://zqfang.github.io/2020-08-19-hpc-snakemake/
-tags: ["Bioinformatics"]
+Tags: ["Bioinformatics"]
 ---
 
 The best part of snakemake is allowed you to run your pipeline on HPC automatically. It save you a lot of time.<br>
