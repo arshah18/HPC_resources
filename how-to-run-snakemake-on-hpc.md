@@ -130,3 +130,6 @@ rule eblocks:
 ```shell
 snakemake --profile slurm -s haplomap.smk --configfile config.yaml -j 666
 ```
+
+__Reference__ <br>
+[Deploy snakemake pipeline on HPC](https://zqfang.github.io/2020-08-19-hpc-snakemake/)
